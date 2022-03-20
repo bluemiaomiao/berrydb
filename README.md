@@ -1,6 +1,6 @@
 # BerryDB
 
-一个以学习为目的的NoSQL分布式数据，使用Java和C/C++构建。
+一个以学习为目的的NoSQL分布式数据，使用Java和C/C++构建。该项目遵循 GNU AFFERO GENERAL PUBLIC（AGPLv3）协议，隶属于BerryDB Software公司，都是我自己瞎编的，做开源软件需要写明确协议和版本信息，小伙伴们请注意这一点。
 
 <div align=center>
     <img src="logo.png"/>
